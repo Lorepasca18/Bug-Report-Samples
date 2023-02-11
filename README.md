@@ -1,6 +1,9 @@
 # Bug-Report-Samples-
 Below are some Bug Report samples that I wrote while working on previous projects.
 
+**Title:**
+The first picture in the photo wall doesn't appear
+
 **Priority & Severity:**
 P3-Normal
 
@@ -17,6 +20,9 @@ All the picture will appear.
 **Actual result:**
 First picture doesn’t appear.
 
+
+**Title:**
+404 page
 
 **Priority & Severity:**
 P2-Low
@@ -35,6 +41,9 @@ Other forms will appear and can be downloaded.
 404 page
 
 
+**Title:**
+Docoment not added
+
 **Priority & Severity:**
 P3-Hight
 
@@ -51,6 +60,9 @@ User should be able to see the city hall agenda.
 **Actual result:**
 Usher can’t find the city hall agenda.
 
+
+**Title:**
+Not Responsive
 
 **Priority & Severity:**
 P5-Low
