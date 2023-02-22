@@ -58,7 +58,7 @@ The management agenda is not added.
 User should be able to see the city hall agenda.
 
 **Actual result:**
-Usher can’t find the city hall agenda.
+User can’t find the city hall agenda.
 
 
 **Title:**
