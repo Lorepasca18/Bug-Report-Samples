@@ -45,7 +45,7 @@ Other forms will appear and can be downloaded.
 Docoment not added
 
 **Priority & Severity:**
-P3-Hight
+P3-High
 
 **Description:**
 The management agenda is not added.
@@ -79,3 +79,43 @@ The page doens’t adapt to other devices properly.
 **Actual result:**
 The elements are not alignet corectly and are not the right size.
 
+
+**Title:**
+Error adding the products to the shopping basket
+
+**Priority & Severity:**
+P1-High
+
+**Description:**
+There was an error adding the products to the shopping basket.
+
+**Steps to reproduce:**
+1. Go to https://juice-shop.herokuapp.com/#/
+2. Try to add products to the sopping basket
+
+**Expected result:** 
+User should be able to add products in the shopping basket.
+
+**Actual result:**
+User can’t add products in the shopping basket
+
+
+**Title:**
+The complaints option does not work
+
+**Priority & Severity:**
+P2-Low
+
+**Description:**
+The complaint option does not submit my complaint when I click on it.
+
+**Steps to reproduce:**
+1. Go to https://juice-shop.herokuapp.com/#/
+2. Clik on Open side menu
+3. Press Complaint button
+
+**Expected result:** 
+User can succesfully submit a complaint.
+
+**Actual result:**
+User fails to send a complaint.
